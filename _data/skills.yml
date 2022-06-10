@@ -1,11 +1,8 @@
 # Skills
 # Languages
-- skill: Korean
-  description: Native
+- skill: Languages
+  description: I am a native Korean speaker and can fluently communicate in English.
   
-- skill: English
-description: Fluent
-
 # Programming
 - skill: Programming
   description: I can write programming scripts via Python, MATLAB, C, and C++.
