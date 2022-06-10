@@ -13,9 +13,17 @@
   # url: https://www.nature.com/articles/s41598-022-08490-9
   summary: Scientific Reports (2020-JCR-IF 4.380; Multi-disciplinary Science 17/72) <a href="https://www.nature.com/articles/s41598-022-08490-9" target="_blank">[LINK]</a>
   
+- organization: A Novel RL-assisted Deep Learning Framework for Task-informative Signals Selection and Classification for Spontaneous BCIs
+  role: Wonjun Ko, Eunjin Jeon, and Heung-Il Suk
+  year: 2022
+  summary: IEEE Transactions on Industrial Informatics (2020-JCR-IF 10.215; Engineering-Industrial 1/49) <a href="https://ieeexplore.ieee.org/abstract/document/9293035" target="_blank">[LINK]</a>
   
 - organization: Mutual Information-driven Subject- invariant and Class-relevant Deep Representation Learning in BCI
   role: Eunjin Jeon, Wonjun Ko, Jee Seok Yoon, and Heung-Il Suk
   year: 2021
-  # url: https://ieeexplore.ieee.org/abstract/document/9508768
   summary: IEEE Transactions on Neural Networks and Learning Systems (2020-JCR-IF 10.451; Computer Science-Hardware & Architecture 3/53) <a href="https://ieeexplore.ieee.org/abstract/document/9508768" target="_blank">[LINK]</a>
+
+- organization: A Survey on Deep Learning-based Short/Zero-calibration Approaches for EEG- based Brain–Computer Interfaces
+  role: Wonjun Ko*, Eunjin Jeon*, Seungwoo Jeong, Jaeun Phyo, and Heung-Il Suk (* Equally contributed)
+  year: 2021
+  summary: Frontiers in Human Neuroscience (2020-JCR-IF 3.169; Psychology: 27/77) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2021.643386/full?ref=https://githubhelp.com" target="_blank">[LINK]</a>
