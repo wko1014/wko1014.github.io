@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Wonjun Ko"
-resume_title:                   "Ph.D. (to be conferred August 2022)"
+resume_name:                    "Wonjun Ko, Ph.D."
+resume_title:                   "Data Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "dwight1014@gmail.com"
@@ -20,7 +20,8 @@ resume_contact_email:           "dwight1014@gmail.com"
 resume_contact_telephone:       "+82 2-3290-3738"
 resume_contact_address:         "Science Library 510, Korea University, Anam-ro 145, Seongbuk-gu, Seoul, Republic of Korea"
 
-resume_header_contact_info:     "Science Library 510, Korea University, Anam-ro 145, Seongbuk-gu, Seoul, Republic of Korea • +82 2-3290-3738 • dwight1014@gmail.com"
+# resume_header_contact_info:     "Science Library 510, Korea University, Anam-ro 145, Seongbuk-gu, Seoul, Republic of Korea • +82 2-3290-3738 • dwight1014@gmail.com"
+resume_header_contact_info:     "Ph.D. degree will be conferred in August 2022 • +82 2-3290-3738 • dwight1014@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I received the B.S. degree in physics from Sogang University, Seoul, Republic of Korea, in 2017. I also received the Ph.D. degree in brain and cognitive engineering from Korea University, Seoul, Republic of Korea, in 2022. My current research interests include machine learning, deep learning, representation learning, and Bayesian learning.</p>"
