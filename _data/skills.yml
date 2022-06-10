@@ -1,4 +1,11 @@
 # Skills
+# Languages
+- skill: Korean
+  description: Native
+  
+- skill: English
+description: Fluent
+
 # Programming
 - skill: Programming
   description: I can write programming scripts via Python, MATLAB, C, and C++.
