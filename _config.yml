@@ -17,10 +17,10 @@ resume_title:                   "Ph.D. (to be conferred August 2022)"
 resume_contact_email:           "dwight1014@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+82 10-3088-8580"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+82 2-3290-3738"
+resume_contact_address:         "Science Library 510, Korea University, Anam-ro 145, Seongbuk-gu, Seoul, Republic of Korea"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Science Library 510, Korea University, Anam-ro 145, Seongbuk-gu, Seoul, Republic of Korea • +82 2-3290-3738 • dwight1014@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
