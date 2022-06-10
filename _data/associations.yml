@@ -1,10 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: Enhancing Contextual Encoding with Stage-Confusion and Stage-Transition Estimation for EEG-based Sleep Staging
+  role: Jaeun Phyo, Wonjun Ko, Eunjin Jeon, and Heung-Il Suk
+  year: 2022
+  summary: Proceedings of 47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP; 2022 Acceptance rate 45%) <a href="https://ieeexplore.ieee.org/document/9746353" target="_blank">[LINK]</a>
+
 - organization: A Deep Generative–Discriminative Learning for Multi-modal Representation in Imaging Genetics
   role: Wonjun Ko, Wonsik Jung, Eunjin Jeon, and Heung-Il Suk
   year: 2022
-  # url: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=communicate
   summary: IEEE Transactions on Medical Imaging (2020-JCR-IF 10.048; Radiology-Nuclear Medicine & Medical Imaging 4/133) <a href="https://ieeexplore.ieee.org/abstract/document/9743914" target="_blank">[LINK]</a>
 
 - organization: Semi-Supervised Generative and Discriminative Adversarial Learning for Motor Imagery-based Brain–Computer Interface
