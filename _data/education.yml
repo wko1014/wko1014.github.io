@@ -1,13 +1,28 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Doctor of Philosophy, Brain and Cognitive Engineering
+  uni: Korea University
+  year: September 2017 &mdash; August 2022
   awards:
-    - award: Summa Cumme Laude graduate
+    - award: Korea University Achievement Award (Korea University)
+    - award: NAVER Ph.D. Fellowship (NAVER Corp.)
+    - award: Fundamental Scientist Scholarship (JW Foundation)
+    - award: Outstanding Trainee Award (Korean Society for Human Brain Mapping)
+    - award: Graduate School Junior Research Fellow Grant (Korea University)
+    - award: Best Paper Award (Korea University)
+    - award: Student Award (International BCI Society)
+    - award: Best Presentation Award (Korean Society for Human Brain Mapping)
+    - award: Best Paper Award (Korea Computer Congress)
   summary: If you had any meaningful roles at college, feel free to write about them here
 
+- degree: Bachelor of Science, Physics
+  uni: Sogang University
+  year: March 2013 &mdash; February 2017
+  awards:
+    - award: 2nd place in Sogang University for the graduate capston design competition
+  summary: I served as a student council member (2013, 2014, 2016), the preseident (2015), and a football team leader (2015). I studied phase transition in Statistical Physics Laboratory and developed a solid-state simuation software.
+
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Kangwon Science High School
+  year: March 2011 &mdash; February 2013
+  # award: Most likely to succeed
+  summary: I graduated as 19th Class (Class of 2013; early graduation).
