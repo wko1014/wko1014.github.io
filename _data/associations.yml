@@ -4,18 +4,18 @@
 - organization: Enhancing Contextual Encoding with Stage-Confusion and Stage-Transition Estimation for EEG-based Sleep Staging
   role: Jaeun Phyo, Wonjun Ko, Eunjin Jeon, and Heung-Il Suk
   year: 2022
-  summary: "Proceedings of 47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP; 2022 Acceptance rate: 45%)" <a href="https://ieeexplore.ieee.org/document/9746353" target="_blank">[LINK]</a>
+  summary: Proceedings of 47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP; 2022 Acceptance rate 45%) <a href="https://ieeexplore.ieee.org/document/9746353" target="_blank">[LINK]</a>
 
 - organization: A Deep Generative–Discriminative Learning for Multi-modal Representation in Imaging Genetics
   role: Wonjun Ko, Wonsik Jung, Eunjin Jeon, and Heung-Il Suk
   year: 2022
-  summary: "IEEE Transactions on Medical Imaging (2020-JCR-IF: 10.048; Radiology-Nuclear Medicine & Medical Imaging: 4/133)" <a href="https://ieeexplore.ieee.org/abstract/document/9743914" target="_blank">[LINK]</a>
+  summary: IEEE Transactions on Medical Imaging (2020-JCR-IF 10.048; Radiology-Nuclear Medicine & Medical Imaging 4/133) <a href="https://ieeexplore.ieee.org/abstract/document/9743914" target="_blank">[LINK]</a>
 
 - organization: Semi-Supervised Generative and Discriminative Adversarial Learning for Motor Imagery-based Brain–Computer Interface
   role: Wonjun Ko, Eunjin Jeon, Jee Seok Yoon, and Heung-Il Suk
   year: 2022
   # url: https://www.nature.com/articles/s41598-022-08490-9
-  summary: "Scientific Reports (2020-JCR-IF: 4.380; Multi-disciplinary Science: 17/72)" <a href="https://www.nature.com/articles/s41598-022-08490-9" target="_blank">[LINK]</a>
+  summary: Scientific Reports (2020-JCR-IF 4.380; Multi-disciplinary Science 17/72) <a href="https://www.nature.com/articles/s41598-022-08490-9" target="_blank">[LINK]</a>
   
 - organization: Continuous Riemannian Geometric Learning for Sleep Staging Classification
   role: Seungwoo Jeong, Wonjun Ko, Ahmad Wisnu Mulyadi, and Heung-Il Suk
@@ -25,42 +25,42 @@
 - organization: A Novel RL-assisted Deep Learning Framework for Task-informative Signals Selection and Classification for Spontaneous BCIs
   role: Wonjun Ko, Eunjin Jeon, and Heung-Il Suk
   year: 2022
-  summary: "IEEE Transactions on Industrial Informatics (2020-JCR-IF: 10.215; Engineering-Industrial: 1/49)" <a href="https://ieeexplore.ieee.org/abstract/document/9293035" target="_blank">[LINK]</a>
+  summary: IEEE Transactions on Industrial Informatics (2020-JCR-IF 10.215; Engineering-Industrial 1/49) <a href="https://ieeexplore.ieee.org/abstract/document/9293035" target="_blank">[LINK]</a>
   
 - organization: Spectro-Spatio-Temporal EEG Representation Learning for Imagined Speech Recognition
   role: Wonjun Ko, Eunjin Jeon, and Heung-Il Suk
   year: 2021
-  summary: "Proceedings of Asian Conference on Pattern Recognition (ACPR; 2021 Acceptance rate: 47%)" <a href="https://link.springer.com/chapter/10.1007/978-3-031-02444-3_25" target="_blank">[LINK]</a>
+  summary: Proceedings of Asian Conference on Pattern Recognition (ACPR; 2021 Acceptance rate 47%) <a href="https://link.springer.com/chapter/10.1007/978-3-031-02444-3_25" target="_blank">[LINK]</a>
 
 - organization: "ENGINE: Enhancing Neuroimaging and Genetic Information by Neural Embedding"
   role: Wonjun Ko, Wonsik Jung, Eunjin Jeon, Ahmad Wisnu Mulyadi and Heung-Il Suk
   year: 2021
-  summary: "Proceedings of IEEE International Conference on Data Mining (ICDM; 2021 Acceptance rate: 20%)" <a href="https://ieeexplore.ieee.org/abstract/document/9679140" target="_blank">[LINK]</a>
+  summary: Proceedings of IEEE International Conference on Data Mining (ICDM; 2021 Acceptance rate 20%) <a href="https://ieeexplore.ieee.org/abstract/document/9679140" target="_blank">[LINK]</a>
 
 - organization: Mutual Information-driven Subject- invariant and Class-relevant Deep Representation Learning in BCI
   role: Eunjin Jeon, Wonjun Ko, Jee Seok Yoon, and Heung-Il Suk
   year: 2021
-  summary: "IEEE Transactions on Neural Networks and Learning Systems (2020-JCR-IF: 10.451; Computer Science-Hardware & Architecture: 3/53)" <a href="https://ieeexplore.ieee.org/abstract/document/9508768" target="_blank">[LINK]</a>
+  summary: IEEE Transactions on Neural Networks and Learning Systems (2020-JCR-IF 10.451; Computer Science-Hardware & Architecture 3/53) <a href="https://ieeexplore.ieee.org/abstract/document/9508768" target="_blank">[LINK]</a>
 
 - organization: A Survey on Deep Learning-based Short/Zero-calibration Approaches for EEG- based Brain–Computer Interfaces
   role: Wonjun Ko*, Eunjin Jeon*, Seungwoo Jeong, Jaeun Phyo, and Heung-Il Suk (* Equally contributed)
   year: 2021
-  summary: "Frontiers in Human Neuroscience (2020-JCR-IF: 3.169; Psychology: 27/77)" <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2021.643386/full?ref=https://githubhelp.com" target="_blank">[LINK]</a>
+  summary: Frontiers in Human Neuroscience (2020-JCR-IF 3.169; Psychology 27/77) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2021.643386/full?ref=https://githubhelp.com" target="_blank">[LINK]</a>
 
 - organization: Electrophysiological Decoding of Spatial and Color Processing in Human Prefrontal Cortex
   role: Byoung-Kyong Min, Hyun-Seok Kim, Wonjun Ko, Min-Hee Ahn, Heung-Il Suk, Dimitrios Pantazis, and Robert T.Knight
   year: 2021
-  summary: "NeuroImage (2020-JCR-IF: 6.556; Neuroimaging: 1/14)" <a href="https://www.sciencedirect.com/science/article/pii/S1053811921004420" target="_blank">[LINK]</a>
+  summary: NeuroImage (2020-JCR-IF 6.556; Neuroimaging 1/14) <a href="https://www.sciencedirect.com/science/article/pii/S1053811921004420" target="_blank">[LINK]</a>
   
 - organization: A Unified Framework for Personalized Regions Selection and Functional Relation Modeling for Early MCI Identification
   role: Jiyeon Lee*, Wonjun Ko*, Eunsong Kang, and Heung-Il Suk (* Equally contributed)
   year: 2021
-  summary: "NeuroImage (2020-JCR-IF: 6.556; Neuroimaging: 1/14)" <a href="https://www.sciencedirect.com/science/article/pii/S1053811921003256" target="_blank">[LINK]</a>
+  summary: NeuroImage (2020-JCR-IF 6.556; Neuroimaging 1/14) <a href="https://www.sciencedirect.com/science/article/pii/S1053811921003256" target="_blank">[LINK]</a>
   
 - organization: Multi-Scale Neural Network for EEG Representation Learning in BCI
   role: Wonjun Ko, Eunjin Jeon, Seungwoo Jeong, and Heung-Il Suk
   year: 2021
-  summary: "IEEE Computational Intelligence Magazine (2020-JCR-IF: 11.356; Computer Science-Artificial Intelligence: 7/140)" <a href="https://ieeexplore.ieee.org/abstract/document/9403717" target="_blank">[LINK]</a>
+  summary: IEEE Computational Intelligence Magazine (2020-JCR-IF 11.356; Computer Science-Artificial Intelligence 7/140) <a href="https://ieeexplore.ieee.org/abstract/document/9403717" target="_blank">[LINK]</a>
   
 - organization: Fine-grained Temporal Attention Network for EEG-based Seizure Detection
   role: Seungwoo Jeong, Eunjin Jeon, Wonjun Ko, and Heung-Il Suk
