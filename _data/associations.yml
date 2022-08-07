@@ -1,6 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: EEG-Oriented Self-Supervised Learning and Cluster-Aware Adaptation
+  role: Wonjun Ko and Heung-Il Suk
+  year: 2022
+  summary: Proceedings of 31st ACM International Conference on Information and Knowledge Management (CIKM)
+
 - organization: Enhancing Contextual Encoding with Stage-Confusion and Stage-Transition Estimation for EEG-based Sleep Staging
   role: Jaeun Phyo, Wonjun Ko, Eunjin Jeon, and Heung-Il Suk
   year: 2022
