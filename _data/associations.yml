@@ -1,6 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: TransSleep: Transitioning-aware Attention-based Deep Neural Network for Sleep Staging
+  role: Jaeun Phyo, Wonjun Ko, Eunjin Jeon, and Heung-Il Suk
+  year: 2022
+  summary: IEEE Transactions on Cybernetics
+
 - organization: EEG-Oriented Self-Supervised Learning and Cluster-Aware Adaptation
   role: Wonjun Ko and Heung-Il Suk
   year: 2022
