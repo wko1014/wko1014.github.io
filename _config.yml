@@ -21,7 +21,7 @@ resume_contact_telephone:       "+82 2-3290-3738"
 resume_contact_address:         "Science Library 510, Korea University, Anam-ro 145, Seongbuk-gu, Seoul, Republic of Korea"
 
 # resume_header_contact_info:     "Science Library 510, Korea University, Anam-ro 145, Seongbuk-gu, Seoul, Republic of Korea • +82 2-3290-3738 • dwight1014@gmail.com"
-resume_header_contact_info:     "Ph.D. degree will be conferred in August 2022 • +82 2-3290-3738 • dwight1014@gmail.com"
+resume_header_contact_info:     "Ph.D. • Data Scientist @ SK Hynix • +82 2-3290-3738 • dwight1014@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I received the B.S. degree in physics from Sogang University, Seoul, Republic of Korea, in 2017. I also received the Ph.D. degree in brain and cognitive engineering from Korea University, Seoul, Republic of Korea, in 2022. My current research interests include machine learning, deep learning, representation learning, and Bayesian learning.</p>"
